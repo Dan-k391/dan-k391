@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![codes](https://api.githubtrends.io/user/svg/dan-k391/langs?time_range=one_year&include_private=True&theme=classic)](https://api.githubtrends.io/user/svg/dan-k391/langs?time_range=one_year&include_private=True&theme=classic)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-k391)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Dan-k391/dan-k391** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
