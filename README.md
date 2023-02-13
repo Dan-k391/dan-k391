@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-k391)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Dan-k391/dan-k391** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
