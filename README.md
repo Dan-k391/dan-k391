@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![codes](https://api.githubtrends.io/user/svg/dan-k391/langs?time_range=one_year&include_private=True&theme=classic)](https://api.githubtrends.io/user/svg/AH-dark/langs?time_range=one_year&include_private=True&theme=classic)
+[![codes](https://api.githubtrends.io/user/svg/dan-k391/langs?time_range=one_year&include_private=True&theme=classic)](https://api.githubtrends.io/user/svg/dan-k391/langs?time_range=one_year&include_private=True&theme=classic)
 
 <!--
 **Dan-k391/dan-k391** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
