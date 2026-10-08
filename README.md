@@ -1,19 +1,16 @@
 ### Hi there 👋
 
-[![info](https://github-readme-stats.vercel.app/api?username=dan-k391&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-k391)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,wasm,linux,git" alt="Tech stack" />
+</p>
 
-<!--
-**Dan-k391/dan-k391** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dan-k391&count_private=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=dan-k391&count_private=true&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-k391&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-k391&layout=compact&hide_border=true&bg_color=00000000" alt="Top languages" />
+  </picture>
+</p>
