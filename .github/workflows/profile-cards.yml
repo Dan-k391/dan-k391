@@ -37,7 +37,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Dan-k391&layout=compact&hide_border=true&bg_color=00000000
+          options: username=Dan-k391&layout=compact&exclude_repo=oq7-papers&hide_border=true&bg_color=00000000
           path: profile/languages-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -45,7 +45,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Dan-k391&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000
+          options: username=Dan-k391&layout=compact&exclude_repo=oq7-papers&theme=github_dark&hide_border=true&bg_color=00000000
           path: profile/languages-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
